@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "xor_df_tbw_behav" "xil_defaultlib.xor_df_tbw" -log "elaborate.log" 
