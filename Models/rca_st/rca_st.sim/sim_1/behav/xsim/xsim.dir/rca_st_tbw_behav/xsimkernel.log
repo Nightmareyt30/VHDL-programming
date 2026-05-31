@@ -1,0 +1,7 @@
+Running: xsim.dir/rca_st_tbw_behav/xsimk.exe -simmode gui -wdb rca_st_tbw_behav.wdb -simrunnum 0 -socket 52758
+Design successfully loaded
+Design Loading Memory Usage: 11004 KB (Peak: 11004 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 12008 KB (Peak: 12008 KB)
+Simulation CPU Usage: 46 ms
