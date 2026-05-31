@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../fa_st.srcs/sources_1/new/fa_st.vhd" \
+"../../../../../ha_df/ha_df.srcs/sources_1/new/ha_df.vhd" \
+"../../../../../../BasicGates/or_bh/or_bh.srcs/sources_1/new/or_bh.vhd" \
+"../../../../fa_st.srcs/sim_1/new/fa_st_tbw.vhd" \
+
+# Do not sort compile order
+nosort
