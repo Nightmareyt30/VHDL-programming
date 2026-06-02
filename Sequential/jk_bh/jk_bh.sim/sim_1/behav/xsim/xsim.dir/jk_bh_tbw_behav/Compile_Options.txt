@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "jk_bh_tbw_behav" "xil_defaultlib.jk_bh_tbw" -log "elaborate.log" 
